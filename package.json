@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/databilim/gtin/issues"
   },
-  "homepage": "https://github.com/databilim/gtin#readme"
+  "homepage": "https://github.com/databilim/gtin#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "json2xls": "^0.1.2",
+    "knex": "^0.14.6",
+    "mysql": "^2.15.0",
+    "request": "^2.85.0"
+  }
 }
