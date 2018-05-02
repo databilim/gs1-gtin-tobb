@@ -1,0 +1,19 @@
+{
+  "name": "gtin",
+  "version": "1.0.0",
+  "description": "Gitin Yeni barkod numarası alan arkadaşlara Myasql ile barkod oluşturup shopphp ye ekleme ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/databilim/gtin.git"
+  },
+  "author": "Celalettin erbulut Realtimeweb.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/databilim/gtin/issues"
+  },
+  "homepage": "https://github.com/databilim/gtin#readme"
+}
